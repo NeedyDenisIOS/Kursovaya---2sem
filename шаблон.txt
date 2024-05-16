@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+
+    <header class="header">
+        <div>
+            <ul class="nav">
+                <li class="nav-item"><a class="nav-link1" href="">МОДЕЛИ</a> </li>
+                <li class="nav-item"><a class="nav-link2" href="">ПОКУПКА И АРЕНДА</a> </li>
+                <div class="image-container">
+                    <img src="D:\Курсовой проект\Моя работа\elements\m-removebg-preview.png" alt="Ваша картинка">
+                </div>
+                <li class="nav-item"><a class="nav-link3" href="">УСЛУГИ</a> </li>
+                <li class="nav-item"><a class="nav-link4" href=""><img class="kupon" src="D:\Курсовой проект\Моя работа\elements\icons8-купон-60.png">ПОСМОТРЕТЬ АКЦИИ</a></li>
+            </ul>
+        </div>
+    </header>
+
+
+
+    <div class="circle">
+        <img class="strelka" src="D:\Курсовой проект\Моя работа\elements\icons8-стрелка-100 (1).png">
+    </div>
+    <div class="circle">
+        <img class="strelka" src="D:\Курсовой проект\Моя работа\elements\icons8-стрелка-100.png">
+    </div>
+    <div class="lamba1"><p>Новая Ламборджини Авентадор уже доступна.</p></div>
+    <div class="lamba2"><p>Открой для себя большие возможности.</p></div>
+
+
+
+<aside>
+    <div class="read">
+        <img src="D:\Курсовой проект\Моя работа\elements\sportage-main-banner-30-years-w.webp">
+    </div>
+    <div class="sportage1">
+        <p>КИА Спортейдж</p>
+    </div>
+    <div class="drive">
+        <img class="rule" src="D:\Курсовой проект\Моя работа\elements\icons8-руль-100.png">
+        <p class="rule1">Пробный заезд</p>
+        <p class="rule2">Забронируйте пробный заезд на нашем автодроме</p>
+    </div>
+    <div class="info">
+        <img class="brochure" src="D:\Курсовой проект\Моя работа\elements\icons8-буклет-гармошка-100.png">
+        <p class="brochure1">Брошюры</p>
+        <p class="brochure2">Скачать брошюру для выбраного вами автомобиля</p>
+    </div>
+    </aside>
+
+
+
+
+    <div class="sportage2"><p>Ограниченная серия доступна с <br>гибридными и подключаемыми <br>гибридными двигателями.</p></div>
+    <div class="size">
+        <p class="text">Официальное уведомление</p>
+        <p class="dear">Уважаемые клиенты,<br>
+            <br>
+            Мы ценим ваш выбор приобрести автомобиль у нашей компании и стремимся обеспечить вас наилучшим опытом покупки. Чтобы сделать ваше взаимодействие с нами максимально прозрачным и безопасным, мы настоятельно рекомендуем внимательно ознакомиться с условиями и договором при покупке автомобиля, размещенными на нашем веб-сайте.</p>
+    <p class="dear">Чтение договора внимательно и полностью поможет вам полностью понять все аспекты сделки, включая права и обязанности как покупателя, так и продавца. Это также поможет избежать недоразумений в будущем и обеспечит вашу уверенность в сделке.<br><br>
+        Мы также хотели бы подчеркнуть, что наши официальные автодилеры готовы предоставить вам всю необходимую поддержку и консультации на протяжении всего процесса покупки. Они обладают экспертным знанием о наших продуктах и услугах, а также готовы помочь вам в любых вопросах, возникающих в ходе вашего выбора и приобретения автомобиля.<br><br>
+        Благодарим вас за доверие, которое вы оказываете нашей компании. Мы гордимся возможностью быть вашими партнерами в этом важном этапе вашей жизни.<br><br>
+        С уважением,<br><br>
+        ДрайвГланс</p>
+        </div>
+        <footer>
+            <div class="footer1">
+                <div><a href="ссылка_на_главную_страницу"><img class="logo" src="D:\Курсовой проект\Моя работа\elements\m-removebg-preview.png" alt="Ваша картинка"></a></div>
+                <div><a class="word" href="ссылка_на_страницу_с_моделями">МОДЕЛИ</a></div>
+                <div><a class="word" href="ссылка_на_страницу_с_покупкой_и_арендой">ПОКУПКА И АРЕНДА</a></div>
+                <div><a class="word" href="ссылка_на_страницу_с_услугами">УСЛУГИ</a></div>
+                <div><a class="word" href="ссылка_на_страницу_с_компанией">КОМПАНИЯ</a></div>
+            </div>
+            <div class="footer2">
+                <a href="ссылка_на_Инстаграм"><img src="D:\Курсовой проект\Моя работа\elements\icons8-инстаграм-в-круге-60.png"></a>
+                <a href="ссылка_на_Телеграм"><img src="D:\Курсовой проект\Моя работа\elements\icons8-телеграмма-50.png"></a>
+                <a href="ссылка_на_ТикТок"><img src="D:\Курсовой проект\Моя работа\elements\icons8-тик-так-50.png"></a>
+                <a href="ссылка_на_Твиттер"><img src="D:\Курсовой проект\Моя работа\elements\icons8-твиттер-64.png"></a>
+                <a href="ссылка_на_YouTube"><img src="D:\Курсовой проект\Моя работа\elements\icons8-youtube-play-50.png"></a>
+            </div>
+            <p class="author">&copy; 2024 ДрайвГланс – ВСЕ ПРАВА ЗАЩИЩЕНЫ.</p>
+        </footer>
+        
+
+
+
+
+css 
+.nav-link1:hover, 
+.nav-link2:hover, 
+.nav-link3:hover,
+.nav-link4:hover {
+    text-decoration: underline;
+}
+
+.circle:hover,
+.strelka:hover {
+    opacity: 1;
+} 
+
+.header:hover {
+    opacity: 1; 
+}
+
+body {
+    background-image: url("D:/Курсовой проект/Моя работа/elements/lamborghini_aventador_lamborghini_sportkar_192986_1920x1080.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.header {
+    background-color: black;
+    opacity: 0.5; 
+    transition: opacity 0.3s ease; 
+    width: 100%;
+    height: 110px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    border: 1px solid #969696;
+}
+
+
+.image-container img {
+    width: 170px;
+    height: 110px;
+    margin-top: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0; 
+    margin: 0; 
+    gap: 100px;
+}
+
+.nav-item {
+    list-style-type: none;
+    width: auto;
+}
+
+.nav-link1, .nav-link2, .nav-link3, .nav-link4 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+
+.kupon {
+    position: absolute;
+    right: 320px;
+    height: 30px;
+}
+
+.nav-link4 {
+    background-color: #4F4F4F; 
+    border-radius: 45px; 
+    padding: 8px 10px 8px 50px;
+}
+
+
+.circle {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: #7D7D7D;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.3; 
+}
+
+.circle:nth-of-type(1) {
+    left: 20px; 
+}
+
+.circle:nth-of-type(2) {
+    right: 20px; 
+}
+
+.strelka {
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 19px;
+}
+
+.lamba1 {
+    position: absolute;
+    top: 480px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    left: 180px;
+    text-shadow: 2px 2px 2px #000000
+}
+
+.lamba2 {
+    position: absolute;
+    top: 540px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    left: 290px;
+    text-shadow: 2px 2px 2px #000000
+}
+
+
+.read {
+ position: absolute;
+ top: 770px;
+}
+
+.read img {
+    width: 55%;
+    height: 50%;
+}
+
+.drive {
+    background-color: #43475C; 
+    position: absolute;
+    top: 770px;
+    left: 55%;
+    height: 470px;
+}
+
+.info {
+    position: absolute;
+    width: 460px; 
+    height: 600px; 
+    background-color: #686C82; 
+    left: 1460px;
+    top: 1080px;
+}
+
+.sportage1 {
+    position: absolute;
+    top: 1388px; 
+    left: 310px; 
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    z-index: 2; 
+}
+.sportage2 {
+    position: absolute;
+    top: 1468px; 
+    left: 160px; 
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    z-index: 2; 
+    text-align: center;
+}
+
+.rule {
+    padding-left: 170px;
+    padding-top: 100px;
+}
+.rule1 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 42px;
+    text-align: center;
+}
+.rule2 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 42px;
+    text-align: center;
+    width: 450px;
+}
+
+.brochure {
+    padding-left: 160px;
+    padding-top: 100px;
+}
+.brochure1 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 42px;
+    text-align: center;
+}
+.brochure2 {
+    padding-left: 10px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 42px;
+    text-align: center;
+    width: 430px;
+}
+
+.text {
+    position: relative; 
+    z-index: 2;
+    font-size: 42px;
+    top: 950px;
+    left: 100px;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.dear {
+    position: relative; 
+    font-size: 42px;
+    top: 950px;
+    left: 100px;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 28px;
+}
+.size {
+    width: 1600px;
+}
+
+.footer1 {
+    background-color: black;
+    width: 1918px;
+    height: 130px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    border: 2px solid #969696;
+    position: absolute;
+    bottom: -1850px; 
+    left: 0;
+}
+
+.word {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin-right: 60px; 
+    text-decoration: none;
+}
+
+.logo {
+    width: 170px;
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 50px; 
+}
+
+.footer2 {
+    background-color: black;
+    width: 1918px;
+    height: 60px;
+    border: 2px solid #969696;
+    position: absolute;
+    bottom: -1900px; 
+    left: 0;
+}
+
+.footer2 img {
+    padding: 10px;
+    width: 40px;
+    height: 35px;
+}
+
+.author {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    bottom: -1915px;
+    left: 1170px;
+    width: 1100px;
+}

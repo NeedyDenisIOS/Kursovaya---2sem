@@ -1,0 +1,383 @@
+@media (min-width: 1480px) and (max-width: 1680px) {
+    .social {
+        display: none;
+    }
+
+    .info-item p {
+        display: none;
+    }
+
+    .container {
+        background-image: url("D:/Курсовой проект/Моя работа/elements/sportage-main-banner-30-years-m.webp");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .nav {
+        gap: 135px;
+    }
+
+    .lamba {
+        margin-top: 29vw;
+    }
+
+}
+
+@media (min-width: 1280px) and (max-width: 1480px) {
+    .social {
+        display: none;
+    }
+
+    .info-item p {
+        display: none;
+    }
+
+    .container {
+        background-image: url("D:/Курсовой проект/Моя работа/elements/sportage-main-banner-30-years-m.webp");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .nav {
+        gap: 80px;
+    }
+
+    .lamba {
+        margin-top: 38vw;
+    }
+
+    .menu-overlay {
+        display: none;
+    }
+
+    .info {
+        gap: 60px;
+    }
+
+    .words {
+        margin-left: 68vw;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 768px) {
+    .nav {
+        gap: 53px;
+        width: 90vw;
+
+    }
+
+    .container {
+        background-image: url("D:/Курсовой проект/Моя работа/elements/sportage-main-banner-30-years-m.webp");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .header {
+        height: 10%;
+        opacity: 1;
+    }
+
+    .nav-link1,
+    .nav-link2,
+    .nav-link3,
+    .nav-link4 {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+        width: 30px;
+        height: 30px;
+    }
+
+    .menu-overlay {
+        position: absolute;
+        left: 0;
+        top: 10%;
+        background-color: white;
+        width: 100%;
+    }
+
+    .chap {
+        border: 1px black solid;
+        border-bottom: none;
+        list-style-type: none;
+        background-color: white;
+        padding: 20px;
+    }
+
+    .chap:hover {
+        text-decoration: underline;
+    }
+
+    .chap:nth-child(4) {
+        border-bottom: solid black 1px;
+    }
+
+    .elem {
+        color: black;
+        font-family: sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .search {
+        display: block;
+        width: 30px;
+        height: 30px;
+    }
+
+    .poisk {
+        background-color: white;
+        position: absolute;
+        top: 10%;
+        left: 0;
+        height: 70px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        display: none;
+    }
+
+    .ladin {
+        width: 90%;
+    }
+
+    .ladin input[type="text"] {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 10px;
+        height: 30px;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        font-family: sans-serif;
+    }
+
+    .hidden {
+        visibility: hidden;
+    }
+
+
+    .visible {
+        display: block;
+    }
+
+
+    .image-container img {
+        width: 60px;
+        height: 40px;
+    }
+
+    .strelka {
+        display: none;
+    }
+
+    .circle1,
+    .circle2 {
+        display: none;
+    }
+
+    .lamba p {
+        display: none;
+    }
+
+    .text-overlay {
+        display: none;
+    }
+
+    .a-text-overlay {
+        color: #FFFFFF;
+        font-family: sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        width: 350px;
+        position: relative;
+        left: 20%;
+        top: 50%;
+    }
+
+    .a-one {
+        display: block;
+        position: relative;
+    }
+
+    .one {
+        display: none;
+    }
+
+    .a-text {
+        position: absolute;
+        top: 5%;
+        color: #FFFFFF;
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        width: 300px;
+        text-align: center;
+        margin: 0 0 0 5%;
+        text-shadow: 1px 1px 1px #000000;
+    }
+
+    .wrapper {
+        width: auto;
+        grid-template-columns: 50% 50%;
+        gap: 0;
+    }
+
+    .wheel {
+        margin-top: 20%;
+    }
+
+    .brochure {
+        margin-top: 12%;
+    }
+
+    .brochure img {
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    .wheel img {
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    .text-wheel {
+        width: 40vw;
+        margin-bottom: 17%;
+        font-size: 20px;
+    }
+
+    .text-brochure {
+        width: 40vw;
+        font-size: 20px;
+    }
+
+    .a-one img {
+        width: 100vw;
+    }
+
+    .after {
+        margin: 8% 5% 8% 5%;
+    }
+
+    .num1 {
+        font-size: 30px;
+    }
+
+    .copyright {
+        display: none;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        padding: 0;
+        background-color: black;
+        border-top: 2px solid #969696;
+        gap: 1vw;
+    }
+
+    .info-item {
+        border-bottom: 1px solid #888888;
+        width: 90%;
+    }
+
+    .info-item:last-child {
+        border-bottom: none;
+        margin-bottom: 30px;
+    }
+
+    .picture {
+        width: 18%;
+        height: 18%;
+        padding-left: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .info-link1,
+    .info-link2,
+    .info-link3,
+    .info-link4 {
+        display: block;
+        text-decoration: none;
+        color: #FFFFFF;
+        margin-left: 0;
+        margin-bottom: 4%;
+        margin-top: 2%;
+        font-size: 15px;
+    }
+
+    .social {
+        display: flex;
+        gap: 30px;
+        margin-bottom: 15px;
+    }
+
+    .social a {
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .social img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .words {
+        text-decoration: none;
+        color: #9ba1a5;
+        font-family: sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        text-align: center;
+        margin: 0;
+        margin-top: 10px;
+        width: 400px;
+        text-align: left;
+        bottom: 0;
+    }
+
+    .feedback {
+        top: 75%;
+        right: -20px;
+        font-weight: 400;
+    }
+
+    .feedback p {
+        margin: 0;
+        margin-top: 9px;
+        font-size: 10px;
+    }
+
+    .vis {
+        font-size: 15px;
+    }
+
+    .button1,
+    .button2 {
+        font-size: 15px;
+        position: relative;
+        right: 57%;
+    }
+
+    .modal {
+        width: 400px;
+        height: 120px;
+    }
+
+}
